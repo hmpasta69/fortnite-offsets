@@ -1,15 +1,15 @@
 #pragma once
-#define <span style="color:green">UWORLD 0x186C09C8   and   0x17FE0B70 [UPDATED!]</span>
-#decine <span style="color:green">GNAMES 0x189C6A40 [UPDATED!]</span>
-#define <span style="color:green">StaticFindObject 0x21EEB40 [UPDATED!]</span>
-#define <span style="color:green">ProcessEvent 0x240045C (Index: 0x2f) [UPDATED!]</span>
+#define UWORLD 0x186C09C8   and   0x17FE0B70 (Both right) [UPDATED!]
+#decine GNAMES 0x189C6A40 [UPDATED!]
+#define StaticFindObject 0x21EEB40 [UPDATED!]
+#define ProcessEvent 0x240045C (Index: 0x2f) [UPDATED!]
 #define PERSISTENT_LEVEL 0x40
 #define GAME_INSTANCE 0x248                       
 #define GAME_STATE 0x1D0                          
 #define LOCAL_PLAYERS 0x38
 #define PLAYER_CONTROLLER 0x30
 #define PLAYERCAMERAMANAGER 0x360
-#define <span style="color:green">ACTORS 0x210 [UPDATED!]</span>
+#define ACTORS 0x210 [UPDATED!]
 #define LOCAL_PAWN 0x350
 #define ACKNOWLEDGED_PAWN 0x350                   
 #define PLAYER_FOV 0x3AC                           
@@ -22,8 +22,8 @@
 #define CACHED_BOUNDS 0x808                        
 #define ROOT_COMPONENT 0x1B0
 #define RELATIVE_LOCATION 0x140
-#define <span style="color:green">ProjectileSpeed 0x1d68, 0x1fd4, 0x2594 (all are correct) [UPDATED!]</span>
-#define <span style="color:green">ProjectileGravity 0x1fd8 [UPDATED!]</span>
+#define ProjectileSpeed 0x1d68, 0x1fd4, 0x2594 (all are correct) [UPDATED!]
+#define ProjectileGravity 0x1fd8 [UPDATED!]
 #define VELOCITY 0x180
 #define CURRENT_WEAPON 0xAF0                       
 #define ISDYING 0x728
@@ -41,7 +41,7 @@
 #define KILL_SCORE 0x12A8
 #define PLAYER_ID 0x2AC
 #define PLAYER_ARRAY 0x2C0
-#define <span style="color:green">WEAPON_DATA 0x588 [UPDATED!]</span>
+#define WEAPON_DATA 0x588 [UPDATED!]                           
 #define DISPLAY_NAME 0x40
 #define WEAPON_NAME 0x40
 #define AMMO_COUNT 0x127C
@@ -58,4 +58,4 @@
 #define DEFAULTFOV 0x2BC
 #define BASEFOV 0x370
 #define LEVELDISPLAY 0x128C
-#define ITEM_RARITY 0xA2
+#define ITEM_RARITY 0xA2                            
